@@ -1,4 +1,8 @@
-# labs
+# NYC Planning Labs
+
+This is the source code for the NYC Department of City Planning's Planning Labs division.
+
+We work with planners to build modern software for the agency and the City of New York.
 
 ## Project setup
 ```
