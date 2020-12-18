@@ -5,5 +5,7 @@
 @import "./variables";
 // The bootstrap file that compiles the CSS
 @import "../../node_modules/bootstrap/scss/bootstrap";
-// Our custom css file
+// Our custom css files
 @import "./custom";
+@import "./_background";
+@import "./style"
